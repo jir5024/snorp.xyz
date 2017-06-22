@@ -1,7 +1,7 @@
-Pure CSS Layout Examples
-========================
+Snorp.xyz web page.
 
-Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
+
+Layout created with [Pure CSS][pure] compiled from the [pure-site][] project.
 
 [pure]: http://purecss.io/
 [pure-site]: https://github.com/yahoo/pure-site
